@@ -1,6 +1,6 @@
 # Visualisasi Persentase Jenis Kelamin di Bandar Lampung
 
-![Visualisasi Persentase Jenis Kelamin di Bandar Lampung](https://femboy.beauty/mgX_J.png)
+![Visualisasi Persentase Jenis Kelamin di Bandar Lampung](https://femboy.beauty/2_ySD.png)
 
 Proyek ini bertujuan untuk memvisualisasikan distribusi jenis kelamin (laki-laki dan perempuan) di setiap kecamatan di Kota Bandar Lampung menggunakan data sensus terbaru dan peta geospasial. Visualisasi ini dapat membantu dalam analisis sosial, ekonomi, serta perencanaan kebijakan publik yang lebih akurat.
 
@@ -94,6 +94,7 @@ Visualisasi ini menggambarkan distribusi jenis kelamin di Kota Bandar Lampung de
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [GeoPandas](https://geopandas.org/)
+- [Seaborn](https://seaborn.pydata.org)
 
 Pastikan untuk menginstal semua dependensi sebelum menjalankan skrip.
 
